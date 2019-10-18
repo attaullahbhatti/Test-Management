@@ -15,7 +15,7 @@ int main() {
 		admin.Login();
 	}
 
-	// wo mene kat dia jo comment ma tha 
+	// sahi kiya tunay comment ura kay
 
 
 	system("pause");
